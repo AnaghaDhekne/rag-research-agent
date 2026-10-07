@@ -1,0 +1,4 @@
+streamlit
+mlflow[databricks]
+databricks-sdk
+openai
